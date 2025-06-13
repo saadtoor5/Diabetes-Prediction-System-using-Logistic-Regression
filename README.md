@@ -55,7 +55,7 @@ Diabetes-Prediction-System-using-Logistic-Regression/
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/saadtoor5/Diabetes-Prediction-System-using-Logistic-Regression.git
+git clone https://github.com/saadtoorx/Diabetes-Prediction-System-using-Logistic-Regression.git
 cd Diabetes-Prediction-System-using-Logistic-Regression
 ```
 
@@ -91,6 +91,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-Made with ❤️ by [@saadtoor5](https://github.com/saadtoor5)
+Made with ❤️ by [@saadtoorx](https://github.com/saadtoorx)
 
 Feel free to fork, explore, or contribute!
